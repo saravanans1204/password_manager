@@ -1,0 +1,7 @@
+This is a simple password manager used to store and retrieve
+userid and password of the user it uses python.
+
+"""To run the app just import run_app function from run.py and you can use the app"""
+
+Here i have implemented a local storage in a json file because of
+security has some people find it comfortable to store these data locally than trusting a third party.
